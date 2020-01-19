@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\bin\Debug\StockManagment.exe.config
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\bin\Debug\StockManagment.exe
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\bin\Debug\StockManagment.pdb
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\obj\Debug\StockManagment.csprojAssemblyReference.cache
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\obj\Debug\StockManagment.Form1.resources
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\obj\Debug\StockManagment.Properties.Resources.resources
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\obj\Debug\StockManagment.csproj.GenerateResource.cache
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\obj\Debug\StockManagment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\obj\Debug\StockManagment.exe
+C:\Users\user\Desktop\pro\StockManagment\StockManagment\obj\Debug\StockManagment.pdb
